@@ -25,6 +25,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
+
+<img src='https://i.imgur.com/AzYpKyC.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/AjrQGyH"  >
 <a href="//imgur.com/a/AjrQGyH">Project 5 Tumblr Feed: Movies</a>
