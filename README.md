@@ -24,20 +24,12 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-
-
-
+<img src='https://i.imgur.com/AzYpKyC.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/AjrQGyH"  >
-<a href="//imgur.com/a/AjrQGyH">Project 5 Tumblr Feed: Movies</a>
-</blockquote>
-<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## Notes
-<img src='https://i.imgur.com/AzYpKyC.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 Describe any challenges encountered while building the app.
 
 ## License
